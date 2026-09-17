@@ -1,2 +1,1 @@
-# PlaywrightAutomation
-Playwright AI Automation
+Playwright Automation with AI integration
